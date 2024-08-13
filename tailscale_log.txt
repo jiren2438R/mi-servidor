@@ -1,0 +1,13 @@
+2024/08/13 01:10:38 logtail started
+2024/08/13 01:10:38 Program starting: v1.68.1-tf02ad8397-g8f9cb4763, Go 1.22.4: []string{"./tailscaled"}
+2024/08/13 01:10:38 LogID: f1411d2c5f4d19bcfe24a6ba89686c572efbd96052541c635a5038b85f48ffe1
+2024/08/13 01:10:38 logpolicy: using system state directory "/var/lib/tailscale"
+2024/08/13 01:10:38 dns: [rc=resolvconf resolvconf=no ret=direct]
+2024/08/13 01:10:38 dns: using "direct" mode
+2024/08/13 01:10:38 dns: using *dns.directManager
+2024/08/13 01:10:38 rename of "/etc/resolv.pre-tailscale-backup.conf" to "/etc/resolv.conf" failed (rename /etc/resolv.pre-tailscale-backup.conf /etc/resolv.conf: device or resource busy), falling back to copy+delete
+2024/08/13 01:10:38 restarting systemd-resolved...
+2024/08/13 01:10:38 restarted systemd-resolved
+2024/08/13 01:10:38 flushing log.
+2024/08/13 01:10:38 logger closing down
+2024/08/13 01:10:38 safesocket.Listen: /var/run/tailscale/tailscaled.sock: address already in use
